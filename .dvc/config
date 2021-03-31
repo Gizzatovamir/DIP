@@ -1,0 +1,6 @@
+[core]
+    remote = myremote
+    hardlink_lock = true
+['remote "myremote"']
+    url = /home/user/dvcstore
+    verify = true
